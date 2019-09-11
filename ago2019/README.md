@@ -24,7 +24,7 @@
 | Quintero Montalvo     | [luisqm](http://github.com/luisqm/POO)|
 | García Gabriel        | [GarciaG1](https://github.com/GarciaG1/POO1)|
 | Medina                | [M3D1N4](https://github.com/M3D1N4/Dorya-poo)|
-
+| Arturo Mercado        | [Arturo-M](https://github.com/Arturo-M/OOP)
 
 # Actividades 
 
